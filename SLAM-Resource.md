@@ -3,10 +3,20 @@
 ## [Field Robotics Center, Carnegie Mellon University](http://www.frc.ri.cmu.edu/index.php)
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
+Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
+
 ### Leader
 Prof. Stergios Roumeliotis
+
 ### Research
+
 #### Cooperative Mapping
+- An offline VI-SLAM algorithm
+- Create optimization with constraint and solve with Lagrangian multipler
+- All features and KFs are variables
+- Speed up by blocking Hessian, efficient when small number of overlapping features observed
+- Both point features, free lines and "Manhatton lines"
+
 #### Square Root Inverse Sliding Window Filter (SR-ISWF)
 #### C-KLAM: Constrained Keyframe-Based Localization and Mapping
 #### Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
