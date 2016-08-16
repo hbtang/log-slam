@@ -1,7 +1,18 @@
 # Groups on SLAM
 
 ## [Field Robotics Center, Carnegie Mellon University](http://www.frc.ri.cmu.edu/index.php)
+
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
+### Leader
+Prof. Stergios Roumeliotis
+### Research
+#### Cooperative Mapping
+#### Square Root Inverse Sliding Window Filter (SR-ISWF)
+#### C-KLAM: Constrained Keyframe-Based Localization and Mapping
+#### Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
+
+
+
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
@@ -19,4 +30,3 @@
 ### Research:
 - Image based 3d reconstruction
 - Visual SLAM: LSDSLAM
-
