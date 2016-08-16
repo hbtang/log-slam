@@ -22,21 +22,32 @@ Prof. Stergios Roumeliotis
 #### Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
 
 
-
-
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
 
 ## [Autonomous Intelligent Systems, University of Freiburg](http://ais.informatik.uni-freiburg.de/index_en.php)
+
 ## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
+
+### Leader
+Prof. Dr. Daniel Cremers.
+
+### Research
+#### LSD-SLAM
+- One of the most popular visual SLAM algorithm
+- Semi-dense
 
 ## [Robotics, Perception and Realtime Group, Univiersity of Zaragoza](http://robots.unizar.es/)
 
-### Peoples: 
-- Prof. Dr. Daniel Cremers.
+### Leader
+Prof. Juan D. Tardos
 
-### Research:
-- Image based 3d reconstruction
-- Visual SLAM: LSDSLAM
+### Research
+#### ORB-SLAM
+- One of the most popular visual SLAM algorithm
+- Sparse ORB feature
+- ORB based BoW for loop close detection
+
+
