@@ -5,7 +5,7 @@
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
 
-### Leader
+### People
 Prof. Stergios Roumeliotis
 
 ### Research
@@ -31,7 +31,7 @@ Prof. Stergios Roumeliotis
 
 ## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
 
-### Leader
+### People
 Prof. Dr. Daniel Cremers.
 
 ### Research
