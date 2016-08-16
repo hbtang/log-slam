@@ -18,11 +18,14 @@ Prof. Stergios Roumeliotis
 - Both point features, free lines and "Manhatton lines"
 
 #### Square Root Inverse Sliding Window Filter (SR-ISWF)
+- Compare with MSCKF
+
 #### C-KLAM: Constrained Keyframe-Based Localization and Mapping
 #### Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
 
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
+
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
