@@ -1,7 +1,11 @@
 # Groups on SLAM
 
 ## [Field Robotics Center, Carnegie Mellon University](http://www.frc.ri.cmu.edu/index.php)
-Prof. Micheal Kaess is the author of iSAM. Prof. Sanjiv Singh is the supervisor of Ji Zhang who did a great work on 3D lidar SLAM.
+Prof. Micheal Kaess is the author of iSAM. 
+His PhD is under supervision of Prof. Frank Dellaert in Georgia Tech, and Post Doc in Prof. John Leonard in MIT.
+Now he seems focusing on RBGD mapping, and optimization algorithm in SLAM.
+
+Prof. Sanjiv Singh is the supervisor of Ji Zhang who did a great work on 3D lidar SLAM.
 
 ### People
 Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
@@ -9,24 +13,24 @@ Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
 ### Research: Prof. Micheal Kaess
 
 #### Optimization
-- 2006: Square Root SAM: Simultaneous localization and mapping via square root information smoothing
-- 2008: iSAM: Incremental smoothing and mapping
-- 2012: iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree
-- 2014: RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation
-- 2009: Covariance Recovery from a Square Root Information Matrix for Data Association
+- 2006: _Square Root SAM: Simultaneous localization and mapping via square root information smoothing_
+- 2008: _iSAM: Incremental smoothing and mapping_
+- 2012: _iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree_
+- 2014: _RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation_
+- 2009: _Covariance Recovery from a Square Root Information Matrix for Data Association_
 
 #### RBGD Mapping
-- 2012: Kintinuous: Spatially Extended KinectFusion
-- 2015: Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion
+- 2012: _Kintinuous: Spatially Extended KinectFusion_
+- 2015: _Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion_
 
 #### Cooperative Mapping
-- 2010: Multiple Relative Pose Graphs for Robust Cooperative Mapping
+- 2010: _Multiple Relative Pose Graphs for Robust Cooperative Mapping_
 
 ### Research: Prof. Sanjiv Singh, Dr. Ji Zhang
 
 #### 3D Lider SLAM
 
-- LOAM: Lidar Odometry and Mapping in Real-time
+- 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
