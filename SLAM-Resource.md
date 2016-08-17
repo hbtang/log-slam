@@ -61,5 +61,11 @@ Prof. Juan D. Tardos
 ## MIT, John Leonard
 
 ## Georgia Tech (GTSAM)
+Prof. Frank Dellaert
 
 ## KIT
+Dr. Andreas Geiger
+
+# Blogs and Websites
+
+[Tombone's Computer Vision BLog](http://www.computervisionblog.com/)
