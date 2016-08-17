@@ -1,6 +1,10 @@
 # Groups on SLAM
 
 ## [Field Robotics Center, Carnegie Mellon University](http://www.frc.ri.cmu.edu/index.php)
+Prof. Micheal Kaess is the author of iSAM. Prof. Sanjiv Singh is the supervisor of Ji Zhang who did a great work on 3D lidar SLAM.
+
+### People
+Prof. Micheal Kaess, Prof. Sanjiv Singh
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
@@ -35,7 +39,7 @@ Prof. Stergios Roumeliotis
 ## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
 
 ### People
-Prof. Dr. Daniel Cremers.
+Prof. Daniel Cremers.
 
 ### Research
 #### LSD-SLAM
@@ -54,3 +58,8 @@ Prof. Juan D. Tardos
 - ORB based BoW for loop close detection
 
 
+## MIT, John Leonard
+
+## Georgia Tech (GTSAM)
+
+## KIT
