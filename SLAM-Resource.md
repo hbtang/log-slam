@@ -32,6 +32,12 @@ Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
 
 - 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
 
+## Georgia Tech (GTSAM)
+Prof. Frank Dellaert
+
+## UC Riverside
+MSCKF
+
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
 
@@ -86,8 +92,7 @@ Prof. Juan D. Tardos
 
 ## MIT, John Leonard
 
-## Georgia Tech (GTSAM)
-Prof. Frank Dellaert
+
 
 ## KIT
 Dr. Andreas Geiger
