@@ -31,8 +31,23 @@ Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
 1. 3D Lider SLAM
 	- 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
 
-## Georgia Tech (GTSAM)
+## [Borg Lab, Georgia Tech](https://collab.cc.gatech.edu/borg/)
+Prof. Frank Dellaert is one of the earlist researchers on SLAM.
+
+### People
 Prof. Frank Dellaert
+
+### Research
+
+1. GTSAM: optimization library
+
+2. DDF-SAM: Decentralized Data Fusion
+	- For cooperative SLAM
+
+3. iLBA: Incremental Light Bundle Adjustment
+	- Open source code published
+    - For BA problem only
+
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
