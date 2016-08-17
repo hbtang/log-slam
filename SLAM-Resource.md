@@ -39,7 +39,7 @@ Prof. Frank Dellaert
 
 ### Research
 
-1. GTSAM: optimization library
+1. GTSAM: C++ library for SLAM backend
 
 2. DDF-SAM: Decentralized Data Fusion
 	- For cooperative SLAM
