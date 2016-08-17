@@ -47,6 +47,8 @@ Prof. Frank Dellaert
 3. iLBA: Incremental Light Bundle Adjustment
 	- Open source code published
     - For BA problem only
+    
+4. iSAM
 
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
