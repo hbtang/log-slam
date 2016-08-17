@@ -12,31 +12,27 @@ Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
 
 ### Research: Prof. Micheal Kaess
 
-#### Optimization
-- 2006: _Square Root SAM: Simultaneous localization and mapping via square root information smoothing_
-- 2008: _iSAM: Incremental smoothing and mapping_
-- 2012: _iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree_
-- 2014: _RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation_
-- 2009: _Covariance Recovery from a Square Root Information Matrix for Data Association_
+1. Optimization
+	- 2006: _Square Root SAM: Simultaneous localization and mapping via square root information smoothing_
+	- 2008: _iSAM: Incremental smoothing and mapping_
+	- 2012: _iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree_
+	- 2014: _RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation_
+	- 2009: _Covariance Recovery from a Square Root Information Matrix for Data Association_
 
-#### RBGD Mapping
-- 2012: _Kintinuous: Spatially Extended KinectFusion_
-- 2015: _Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion_
+2. RBGD Mapping
+	- 2012: _Kintinuous: Spatially Extended KinectFusion_
+	- 2015: _Real-time Large Scale Dense RGB-D SLAM with Volumetric Fusion_
 
-#### Cooperative Mapping
-- 2010: _Multiple Relative Pose Graphs for Robust Cooperative Mapping_
+3. Cooperative Mapping
+	- 2010: _Multiple Relative Pose Graphs for Robust Cooperative Mapping_
 
 ### Research: Prof. Sanjiv Singh, Dr. Ji Zhang
 
-#### 3D Lider SLAM
-
-- 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
+1. 3D Lider SLAM
+	- 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
 
 ## Georgia Tech (GTSAM)
 Prof. Frank Dellaert
-
-## UC Riverside
-MSCKF
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
 Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
@@ -46,19 +42,22 @@ Prof. Stergios Roumeliotis
 
 ### Research
 
-#### Cooperative Mapping
-- An offline VI-SLAM algorithm
-- Create optimization with constraint and solve with Lagrangian multipler
-- All features and KFs are variables
-- Speed up by blocking Hessian, efficient when small number of overlapping features observed
-- Both point features, free lines and "Manhatton lines"
+1. Cooperative Mapping
+	- An offline VI-SLAM algorithm
+	- Create optimization with constraint and solve with Lagrangian multipler
+	- All features and KFs are variables
+	- Speed up by blocking Hessian, efficient when small number of overlapping features observed
+	- Both point features, free lines and "Manhatton lines"
 
-#### Square Root Inverse Sliding Window Filter (SR-ISWF)
-- Compare with MSCKF
+2. Square Root Inverse Sliding Window Filter (SR-ISWF)
+	- Compare with MSCKF
 
-#### C-KLAM: Constrained Keyframe-Based Localization and Mapping
-#### Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
+3. C-KLAM: Constrained Keyframe-Based Localization and Mapping
 
+4. Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
+
+## UC Riverside
+MSCKF
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 
