@@ -39,7 +39,7 @@ Prof. Frank Dellaert
 
 ### Research
 
-1. GTSAM: C++ library for SLAM backend
+1. GTSAM: C++ library for SLAM backend, based on iSAM
 	- 2006: _Square Root SAM: Simultaneous localization and mapping via square root information smoothing_
 	- 2008: _iSAM: Incremental smoothing and mapping_
 	- 2012: _iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree_
@@ -51,11 +51,8 @@ Prof. Frank Dellaert
     - 2012: _Fully Distributed Scalable Smoothing and Mapping with Robust Multi-robot Data Association_
     - 2013: _DDF-SAM 2.0: Consistent Distributed Smoothing and Mapping_
 
-3. iLBA: Incremental Light Bundle Adjustment
-	- Open source code published
-    - For BA problem only
-    
-4. iSAM
+3. iLBA: Incremental Light Bundle Adjustment, open source
+	- 2013: _Incremental Light Bundle Adjustment for Robotics Navigation_    
 
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
