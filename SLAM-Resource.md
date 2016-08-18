@@ -40,9 +40,16 @@ Prof. Frank Dellaert
 ### Research
 
 1. GTSAM: C++ library for SLAM backend
+	- 2006: _Square Root SAM: Simultaneous localization and mapping via square root information smoothing_
+	- 2008: _iSAM: Incremental smoothing and mapping_
+	- 2012: _iSAM2: Incremental Smoothing and Mapping Using the Bayes Tree_
+	- 2014: _RISE: An Incremental Trust-Region Method for Robust Online Sparse Least-Squares Estimation_
+    - 2010-IROS Subgraph-preconditioned conjugate gradients for large scale slam
 
-2. DDF-SAM: Decentralized Data Fusion
-	- For cooperative SLAM
+2. DDF-SAM: Decentralized Data Fusion, for cooperative SLAM.
+	- 2010: _DDF-SAM: Fully Distributed SLAM using Constrained Factor Graphs_
+    - 2012: _Fully Distributed Scalable Smoothing and Mapping with Robust Multi-robot Data Association_
+    - 2013: _DDF-SAM 2.0: Consistent Distributed Smoothing and Mapping_
 
 3. iLBA: Incremental Light Bundle Adjustment
 	- Open source code published
