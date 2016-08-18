@@ -32,7 +32,7 @@ Prof. Micheal Kaess, Prof. Sanjiv Singh, Dr. Ji Zhang
 	- 2014: _LOAM: Lidar Odometry and Mapping in Real-time_
 
 ## [Borg Lab, Georgia Tech](https://collab.cc.gatech.edu/borg/)
-Prof. Frank Dellaert is one of the earlist researchers on SLAM.
+Prof. Frank Dellaert is one of the earlist researchers on SLAM. Now they mainly focus on developing backend algorithm for mapping or BA, including GTSAM, DDF-SAM, ILBA.
 
 ### People
 Prof. Frank Dellaert
@@ -56,7 +56,9 @@ Prof. Frank Dellaert
 
 
 ## [Multiple Autonomous Robotic Systems Lab (MARS), University of Minnesota](http://mars.cs.umn.edu/)
-Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. Cooperate with google, and participate in Project Tango.
+Focus on VINS, Prof. Stergios Roumeliotis is the second author of **MSCKF**. 
+Cooperate with google, and participate in Project Tango. 
+Focus on cooperative mapping and application on mobile devices.
 
 ### People
 Prof. Stergios Roumeliotis
@@ -69,13 +71,22 @@ Prof. Stergios Roumeliotis
 	- All features and KFs are variables
 	- Speed up by blocking Hessian, efficient when small number of overlapping features observed
 	- Both point features, free lines and "Manhatton lines"
+    - 2015: _Resource-Aware Large-Scale Cooperative 3D Mapping from Multiple Cell Phones_
+    - 2016: _Large-Scale Cooperative 3D Visual-Inertial Mapping in a Manhattan World_
 
 2. Square Root Inverse Sliding Window Filter (SR-ISWF)
 	- Compare with MSCKF
+    - 2015: _A Square Root Inverse Filter for Efficient Vision-aided Inertial Navigation on Mobile Devices_
 
 3. C-KLAM: Constrained Keyframe-Based Localization and Mapping
+	- 2013: _C-KLAM: Constrained Keyframe Localization and Mapping for Long-Term Navigation_
+    - 2014: _C-KLAM: Constrained Keyframe-Based Localization and Mapping_
 
-4. Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
+4. Incremental Batch Least-Squares (IBLS): SLAM for resource constrained mobile devices (like Tango)
+	- 2015: _A Square Root Inverse Filter for Efficient Vision-aided Inertial Navigation on Mobile Devices_
+    - 2014: _Efficient Visual-Inertial Navigation using a Rolling-Shutter Camera with Inaccurate Timestamps_
+
+5. Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
 
 ## UC Riverside
 MSCKF
