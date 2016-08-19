@@ -88,8 +88,8 @@ Prof. Stergios Roumeliotis
 
 5. Visual-Inertial Navigation System (VINS) using a Rolling-Shutter Camera
 
-## UC Riverside
-MSCKF
+## [Prof. Anastasios Mourikis, UC Riverside](http://www.ee.ucr.edu/~mourikis/)
+Prof. Anastasios Mourikis is the athor of MSCKF.
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 
@@ -105,20 +105,20 @@ MSCKF
 Prof. Daniel Cremers.
 
 ### Research
-#### LSD-SLAM
-- One of the most popular visual SLAM algorithm
-- Semi-dense
+1.  LSD-SLAM
+	- One of the most popular visual SLAM algorithm
+	- Semi-dense
 
 ## [Robotics, Perception and Realtime Group, Univiersity of Zaragoza](http://robots.unizar.es/)
 
-### Leader
+### People
 Prof. Juan D. Tardos
 
 ### Research
-#### ORB-SLAM
-- One of the most popular visual SLAM algorithm
-- Sparse ORB feature
-- ORB based BoW for loop close detection
+1. ORB-SLAM
+	- One of the most popular visual SLAM algorithm
+	- Sparse ORB feature
+	- ORB based BoW for loop close detection
 
 
 ## MIT, John Leonard
