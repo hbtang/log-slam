@@ -91,6 +91,8 @@ Prof. Stergios Roumeliotis
 ## [Prof. Anastasios Mourikis, UC Riverside](http://www.ee.ucr.edu/~mourikis/)
 Prof. Anastasios Mourikis is the athor of MSCKF.
 
+## MIT, John Leonard
+
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
@@ -121,7 +123,7 @@ Prof. Juan D. Tardos
 	- ORB based BoW for loop close detection
 
 
-## MIT, John Leonard
+
 
 
 
@@ -132,4 +134,4 @@ Dr. Andreas Geiger
 
 # Blogs and Websites
 
-[Tombone's Computer Vision BLog](http://www.computervisionblog.com/)
+## [Tombone's Computer Vision BLog](http://www.computervisionblog.com/)
