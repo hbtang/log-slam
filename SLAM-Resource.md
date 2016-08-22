@@ -91,7 +91,7 @@ Prof. Stergios Roumeliotis
 ## [Prof. Anastasios Mourikis, UC Riverside](http://www.ee.ucr.edu/~mourikis/)
 Prof. Anastasios Mourikis is the athor of MSCKF.
 
-## MIT, John Leonard
+## Prof. John Leonard, MIT
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 
