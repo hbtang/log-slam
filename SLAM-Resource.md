@@ -107,9 +107,11 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 Prof. Daniel Cremers.
 
 ### Research
-1.  LSD-SLAM
+1. LSD-SLAM
 	- One of the most popular visual SLAM algorithm
 	- Semi-dense
+    
+2. DSO: direct sparse odometry
 
 ## [Robotics, Perception and Realtime Group, Univiersity of Zaragoza](http://robots.unizar.es/)
 
