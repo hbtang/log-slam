@@ -99,6 +99,9 @@ Seems more focus on different robot systems.
 ### People
 Prof. Roland Siegwart
 
+1. Calibration
+	- Kalibr
+
 ## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
 
 ### People
@@ -112,8 +115,7 @@ Prof. Marc Pollefeys, Dr. Lionel Heng
 	- Large scale
     - Place recognition
     
-3. Calibration
-	- Kalibr
+
 
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
