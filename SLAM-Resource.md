@@ -98,9 +98,24 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
+A Davison
 
 ## [Dyson Robotics Lab, Imperial Colledge London](https://wp.doc.ic.ac.uk/sleutene/)
-OKVIS
+Dr. Stefan Leutenegger is the author of OKVIS, he received his PhD degree from Autonomous Systems Lab of ETH.
+
+### People
+Dr. Stefan Leutenegger, Prof. Andrew Davision
+
+### Research
+
+1. VINS
+	- OKVIS
+    - 2015 IJRR: _Keyframe-based visual–inertial odometry using nonlinear optimization_
+    
+2. Dense RBGD SLAM
+    - 2015: _ElasticFusion: Dense SLAM Without A Pose Graph_
+    
+3. Event-Camera
 
 ## [Autonomous Intelligent Systems, University of Freiburg](http://ais.informatik.uni-freiburg.de/index_en.php)
 
