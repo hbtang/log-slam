@@ -94,8 +94,14 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 ## Prof. John Leonard, MIT
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
+Seems more focus on different robot systems.
+
+### People
+Prof. Roland Siegwart
 
 ## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
+
+### People
 Prof. Marc Pollefeys, Dr. Lionel Heng
 
 ### Research
@@ -107,6 +113,23 @@ Prof. Marc Pollefeys, Dr. Lionel Heng
     - Place recognition
 
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
+
+### People
+Prof. Davide Scaramuzza
+
+### Research
+
+1. VINS	
+    - 2016 TRO: On-Manifold Preintegration for Real-Time Visual-Inertial Odometry
+    - 2014 ICRA: SVO: Fast Semi-Direct Monocular Visual Odometry
+    - 2014 ICRA: REMODE: Probabilistic, Monocular Dense Reconstruction in Real Time
+    
+2. Monocular Dense Reconstruction
+
+3. UAV
+
+4. Event-Camera
+
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
 Prof. Andrew Davison is one of the most important researchers on SLAM in this world. His important works include: MonoSLAM, KinectFusion, DTAM, SLAM++ (Object based SLAM), ...
