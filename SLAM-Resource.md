@@ -99,9 +99,12 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
 
+## [Dyson Robotics Lab, Imperial Colledge London](https://wp.doc.ic.ac.uk/sleutene/)
+
 ## [Autonomous Intelligent Systems, University of Freiburg](http://ais.informatik.uni-freiburg.de/index_en.php)
 
 ## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
+
 
 ### People
 Prof. Daniel Cremers.
@@ -114,6 +117,8 @@ Prof. Daniel Cremers.
 2. DSO: direct sparse odometry
 
 ## [Robotics, Perception and Realtime Group, Univiersity of Zaragoza](http://robots.unizar.es/)
+
+
 
 ### People
 Prof. Juan D. Tardos
@@ -130,7 +135,8 @@ Prof. Juan D. Tardos
 
 
 ## KIT
-Dr. Andreas Geiger
+## Dr. Andreas Geiger
+## T. Barfoot – Autonomous Space Robotics Laboratory, University of Toronto
 
 
 
