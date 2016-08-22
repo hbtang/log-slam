@@ -95,10 +95,21 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 
+## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
+Prof. Marc Pollefeys, Dr. Lionel Heng
+
+### Research
+1. Visual SLAM
+	- 2015 JFR: _Leveraging Image-based Localization for Infrastructure-based Calibration of a Multi-camera Rig_
+    
+2. Visual Localization
+	- Large scale
+    - Place recognition
+
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
-Prof. Andrew Davison is one of the most important researchers on SLAM in this world. His important works include: MonoSLAM, KinectFusion, DTAM, SLAM++(Object based SLAM), ...
+Prof. Andrew Davison is one of the most important researchers on SLAM in this world. His important works include: MonoSLAM, KinectFusion, DTAM, SLAM++ (Object based SLAM), ...
 
 ### People
 Prof. Andrew Davison
@@ -154,19 +165,11 @@ Prof. Juan D. Tardos
 	- One of the most popular visual SLAM algorithm
 	- Sparse ORB feature
 	- ORB based BoW for loop close detection
-
-
-
-
-
+    
 
 ## KIT
 ## Dr. Andreas Geiger
 ## T. Barfoot – Autonomous Space Robotics Laboratory, University of Toronto
-
-
-
-
 
 
 # Blogs and Websites
