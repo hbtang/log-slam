@@ -101,6 +101,9 @@ Prof. Roland Siegwart
 
 1. Calibration
 	- Kalibr
+    
+2. VIO
+	- 2015 IROS: Robust Visual Inertial Odometry Using a Direct EKF-Based Approach
 
 ## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
 
