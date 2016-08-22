@@ -132,7 +132,6 @@ Dr. Stefan Leutenegger, Prof. Andrew Davison
 
 ## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
 
-
 ### People
 Prof. Daniel Cremers.
 
