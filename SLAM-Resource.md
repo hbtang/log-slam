@@ -164,7 +164,7 @@ Dr. Stefan Leutenegger, Prof. Andrew Davison
 
 ## [Autonomous Intelligent Systems, University of Freiburg](http://ais.informatik.uni-freiburg.de/index_en.php)
 
-## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/l)
+## [Computer Vision Group, Technical University of Munich](http://vision.in.tum.de/)
 
 ### People
 Prof. Daniel Cremers.
