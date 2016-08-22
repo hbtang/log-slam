@@ -103,7 +103,8 @@ Prof. Roland Siegwart
 	- Kalibr
     
 2. VIO
-	- 2015 IROS: Robust Visual Inertial Odometry Using a Direct EKF-Based Approach
+	- 2015: Robust Visual Inertial Odometry Using a Direct EKF-Based Approach (ROVIO)
+    - 2013: Keyframe-Based Visual-Inertial SLAM Using Nonlinear Optimization (OKVIS)
 
 ## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
 To check their works from their [youtube channel](https://www.youtube.com/user/aslteam/videos)
@@ -112,7 +113,7 @@ To check their works from their [youtube channel](https://www.youtube.com/user/a
 Prof. Marc Pollefeys, Dr. Lionel Heng
 
 ### Research
-1. Visual SLAM
+1. Calibration
 	- 2015 JFR: _Leveraging Image-based Localization for Infrastructure-based Calibration of a Multi-camera Rig_
     
 2. Visual Localization
