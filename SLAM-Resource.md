@@ -98,13 +98,24 @@ Prof. Anastasios Mourikis is the athor of MSCKF.
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
 ## [Robot Vision Group, Imperial Colledge London](https://wp.doc.ic.ac.uk/robotvision/)
-A Davison
+Prof. Andrew Davison is one of the most important researchers on SLAM in this world. His important works include: MonoSLAM, KinectFusion, DTAM, SLAM++(Object based SLAM), ...
+
+### People
+Prof. Andrew Davison
+
+### Research
+
+1. Dense Visual Odometry
+
+2. Event-Camera
+
+3. Object SLAM
 
 ## [Dyson Robotics Lab, Imperial Colledge London](https://wp.doc.ic.ac.uk/sleutene/)
 Dr. Stefan Leutenegger is the author of OKVIS, he received his PhD degree from Autonomous Systems Lab of ETH.
 
 ### People
-Dr. Stefan Leutenegger, Prof. Andrew Davision
+Dr. Stefan Leutenegger, Prof. Andrew Davison
 
 ### Research
 
