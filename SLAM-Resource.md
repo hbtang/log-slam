@@ -106,6 +106,7 @@ Prof. Roland Siegwart
 	- 2015 IROS: Robust Visual Inertial Odometry Using a Direct EKF-Based Approach
 
 ## [Computer Vision and Geometry Group, ETH](https://www.cvg.ethz.ch/)
+To check their works from their [youtube channel](https://www.youtube.com/user/aslteam/videos)
 
 ### People
 Prof. Marc Pollefeys, Dr. Lionel Heng
