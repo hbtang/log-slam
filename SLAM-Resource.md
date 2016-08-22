@@ -111,6 +111,9 @@ Prof. Marc Pollefeys, Dr. Lionel Heng
 2. Visual Localization
 	- Large scale
     - Place recognition
+    
+3. Calibration
+	- Kalibr
 
 ## [Robotics and Perception Group, University of Zurich](http://rpg.ifi.uzh.ch/index.html)
 
@@ -193,7 +196,6 @@ Prof. Juan D. Tardos
 ## KIT
 ## Dr. Andreas Geiger
 ## T. Barfoot – Autonomous Space Robotics Laboratory, University of Toronto
-
 
 # Blogs and Websites
 
