@@ -232,5 +232,7 @@ Poisson reconstruction, VRIP(volumetric range image processing), ...
 
 ## DPPTAM: Dense piecewise planar tracking and mapping from a monocular sequence, 2015 IROS
 
+## DSO: Direct sparse odometry, TUM
+
 ## 
 
