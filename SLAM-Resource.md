@@ -191,13 +191,15 @@ Prof. Daniel Cremers.
 
 
 ### People
-Prof. Juan D. Tardos
+Prof. Juan D. Tardos, 	Prof. Javier Civera
 
 ### Research
 1. ORB-SLAM
 	- One of the most popular visual SLAM algorithm
 	- Sparse ORB feature
 	- ORB based BoW for loop close detection
+    
+2. Visual-Inertial Direct SLAM
     
 
 ## KIT
