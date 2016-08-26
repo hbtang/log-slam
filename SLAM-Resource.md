@@ -207,3 +207,28 @@ Prof. Juan D. Tardos
 # Blogs and Websites
 
 ## [Tombone's Computer Vision BLog](http://www.computervisionblog.com/)
+
+## [PaoPao Robitics](http://www.slamcn.org/)
+
+# Tutorials
+
+## [2014 CVPR Visual SLAM Tutorial](http://frc.ri.cmu.edu/~kaess/vslam_cvpr14/)
+
+## [2015 ICCV SLAM Workshop](https://wp.doc.ic.ac.uk/thefutureofslam/)
+
+## [2016 ICRA SLAM Tutorial](http://www.dis.uniroma1.it/~labrococo/tutorial_icra_2016/)
+
+# Topics To Learn
+
+## Point Clous to Mesh
+
+Poisson reconstruction, VRIP(volumetric range image processing), ...
+
+## SunJian's work
+
+## Unsupervised Intrinsic Calibration of Depth Sensors via SLAM, 2013 RSS
+
+## Visual Inertial Direct SLAM, UniZar & UniPenn, 2016 ICRA
+
+
+
