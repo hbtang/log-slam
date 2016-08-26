@@ -91,7 +91,14 @@ Prof. Stergios Roumeliotis
 ## [Prof. Anastasios Mourikis, UC Riverside](http://www.ee.ucr.edu/~mourikis/)
 Prof. Anastasios Mourikis is the athor of MSCKF.
 
-## Prof. John Leonard, MIT
+## [Marine Robotics Group, MIT](https://marinerobotics.mit.edu/)
+
+### People
+Prof. John Leonard
+
+### Research
+1.  Visual SLAM
+	-  2016 ICRA: High-Performance and Tunable Stereo Reconstruction
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 Seems more focus on different robot systems.
