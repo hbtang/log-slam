@@ -98,7 +98,8 @@ Prof. John Leonard
 
 ### Research
 1.  Visual SLAM
-	-  2016 ICRA: High-Performance and Tunable Stereo Reconstruction
+	- 2016 ICRA: High-Performance and Tunable Stereo Reconstruction
+    - 2015: Monocular SLAM-Supported Object Recognition
 
 ## [Autonomous Systems Lab, ETH](http://www.asl.ethz.ch/)
 Seems more focus on different robot systems.
