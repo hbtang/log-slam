@@ -230,5 +230,7 @@ Poisson reconstruction, VRIP(volumetric range image processing), ...
 
 ## Visual Inertial Direct SLAM, UniZar & UniPenn, 2016 ICRA
 
+## DPPTAM: Dense piecewise planar tracking and mapping from a monocular sequence, 2015 IROS
 
+## 
 
