@@ -1,5 +1,3 @@
-# Calibration
-
 ## Offline Calibration
 
 ### InitMk: non-iterative initialization based on mark measurements
