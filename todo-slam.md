@@ -48,7 +48,7 @@ Read their codes, understand everything...
 
 LOAM or other SLAM projects, datasets, codes, run, ...
 
-### PLC
+### PCL
 
 Or other point cloud library, test, get familiar
 
@@ -65,10 +65,3 @@ to use, compare
 ### CERES
 
 to use, compare
-
-
-
-
-
-
-
