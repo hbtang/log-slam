@@ -46,7 +46,27 @@ Read their codes, understand everything...
 
 ## 3D Lidar SLAM
 
-LOAM or other projects, datasets, codes, run, ...
+### LOAM
+
+LOAM or other SLAM projects, datasets, codes, run, ...
+
+### PLC
+
+Or other point cloud library, test, get familiar
+
+## Optimizer
+
+### G2O
+
+already using, to know more about details, maybe write a new solver, ...
+
+### GTSAM
+
+to use, compare
+
+### CERES
+
+to use, compare
 
 
 
